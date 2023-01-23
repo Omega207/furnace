@@ -26,4 +26,4 @@ However, we understand that the interface may not be the easiest to learn, depen
 
 See [Section 2](https://github.com/tildearrow/furnace/tree/master/papers/doc/2-interface) and [Section 3](https://github.com/tildearrow/furnace/tree/master/papers/doc/3-pattern) to view said documentation.
 
-Previous: None ┊ Next: [Section 2: Interface](https://github.com/tildearrow/furnace/blob/master/papers/doc/2-interface/README.md)
+Previous: None ┊ Next: [Section 2: Interface](2-interface/README.md)
