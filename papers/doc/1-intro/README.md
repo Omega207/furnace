@@ -25,3 +25,5 @@ Furnace is built to have a user-friendly interface that is intentionally made so
 However, we understand that the interface may not be the easiest to learn, depending on how you learn, so there is documentation on it as well.
 
 See [Section 2](https://github.com/tildearrow/furnace/tree/master/papers/doc/2-interface) and [Section 3](https://github.com/tildearrow/furnace/tree/master/papers/doc/3-pattern) to view said documentation.
+
+Previous: None ┊ Next: [Section 2: Interface](https://github.com/tildearrow/furnace/blob/master/papers/doc/2-interface/README.md)
