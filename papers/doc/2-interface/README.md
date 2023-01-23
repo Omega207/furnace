@@ -5,4 +5,4 @@ The Furnace user interface is what you're going to be looking at most of the tim
 - [UI components](components.md)
 - [Global keyboard shortcuts](keyboard.md)
 
-Previous: [Introduction](https://github.com/Omega207/furnace/blob/master/papers/doc/1-intro/README.md) ┊ Next: WIP
+Previous: [Section 1: Introduction](https://github.com/tildearrow/furnace/blob/master/papers/doc/1-intro/README.md) ┊ Next: [Section 3: Patterns](https://github.com/tildearrow/furnace/blob/master/papers/doc/3-pattern/README.md)
