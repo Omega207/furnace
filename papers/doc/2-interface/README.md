@@ -1,6 +1,8 @@
-# interface
+# Section 2: Interface
 
-the Furnace user interface is where the job gets done.
+The Furnace user interface is what you're going to be looking at most of the time, and where the job gets done.
 
 - [UI components](components.md)
-- [global keyboard shortcuts](keyboard.md)
+- [Global keyboard shortcuts](keyboard.md)
+
+Previous: [Introduction](https://github.com/Omega207/furnace/blob/master/papers/doc/1-intro/README.md) ┊ Next: WIP
