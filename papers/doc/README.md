@@ -8,7 +8,7 @@
 3. [Patterns](3-pattern/README.md) / The main editor for song creation and editing.
 4. [Instruments](4-instrument/README.md) / How to use instruments and macros.
 5. [Wavetables](5-wave/README.md) / Discover the wavetable editor and synthesizers.
-6. [Samples](6-sample/README.md)
+6. [Samples](6-sample/README.md) / All about samples, as well as importing and using them.
 7. [List of sound chips](7-systems/README.md)
 
 # Attribution
