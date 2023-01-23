@@ -5,7 +5,7 @@
 
 1. [Introduction](1-intro/README.md) / About Furnace and sound generation.
 2. [Interface](2-interface/README.md) / Find out about how to use the UI.
-3. [Patterns](3-pattern/README.md)
+3. [Patterns](3-pattern/README.md) / The main editor for song creation and editing.
 4. [Instruments](4-instrument/README.md)
 5. [Wavetables](5-wave/README.md)
 6. [Samples](6-sample/README.md)
