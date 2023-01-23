@@ -1,7 +1,7 @@
 # Introduction
 
 Furnace (Tracker) is a tool which allows you to create music using emulated sound chips from the 8/16-bit era.
-For a full list of soundchips that Furnace supports, please see [Section 7](doc/7-systems/README.md).
+For a full list of soundchips that Furnace supports, please see [Section 7](../furnace/papers/doc/7-systems/README.md).
 
 It has a music tracker interface. think of a piano roll, or a table that scrolls up and plays the notes.
 
