@@ -83,4 +83,4 @@ Sliders are used for controlling values in a quick manner by being dragged.
 Alternatively, right-clicking or Ctrl-clicking or a slider (Command-click on macOS) will turn it into a number input field for a short period of time, allowing you to input fine values.
 
 
-Go back to Section 2 ┊ Go to Part 2
+Go back to (Section 2)[https://github.com/tildearrow/furnace/blob/master/papers/doc/2-interface/README.md] ┊ Go to Part 2
